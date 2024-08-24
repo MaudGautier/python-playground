@@ -1,0 +1,4 @@
+
+class AssertError(Exception):
+    pass
+
